@@ -1,2 +1,0 @@
-class GitObject:
-    pass
